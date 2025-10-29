@@ -1,7 +1,7 @@
 # Favorite Movies & TV Shows Backend (Quick start)
 
 1. Copy repository files into a folder.
-2. `cp .env.example .env` and update DB credentials.
+2. `cp .env` and update DB credentials.
 3. Install: `npm install`.
 4. Start MySQL and create DB: `CREATE DATABASE tv_movie_shows;` or use your DB name and update `.env`.
 5. Run seed (optional): `npm run seed` (this uses TypeORM synchronize=true to create tables).
