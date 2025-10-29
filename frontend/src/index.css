@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+height: 100%;
+}
+
+
+.modal-backdrop {
+background: rgba(0,0,0,0.5);
+}
